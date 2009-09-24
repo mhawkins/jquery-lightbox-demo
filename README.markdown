@@ -26,3 +26,7 @@ Now in your browser, go to
    http://0.0.0.0:4567
 
 Click on the pictures to view the full size photo.
+
+# PHOTO
+
+The photo is one I took at Lake Elkhorn on my iPhone.  Nothing fancy.
